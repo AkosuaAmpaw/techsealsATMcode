@@ -10,8 +10,8 @@ print ('Please enter your credentials  to login \n')
 
 #Database of user accounts
 userArray=[
-{'username':'akosua', 'pin':4000, 'balance':{'GHS':140, 'USD':0} },
-{'username':'eben', 'pin':5461, 'balance':{'GHS':140, 'USD':0} },
+{'username':'akosua', 'pin':4000, 'balance':{'GHS':140.00, 'USD':0} },
+{'username':'eben', 'pin':5461, 'balance':{'GHS':140.00, 'USD':0} },
 {'username':'bagna', 'pin':7438, 'balance':{'GHS':555000.00, 'USD':300000.00} },
 {'username':'esinam', 'pin':1110, 'balance':{'GHS':5000.00, 'USD':20000.00} },
 {'username':'dna', 'pin':1234, 'balance':{'GHS':25000.00, 'USD':15000.00} },
